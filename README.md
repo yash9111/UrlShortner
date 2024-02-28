@@ -13,11 +13,11 @@ The URL Shortener project comprises the following components:
 ### 3. Installation
 To install and run the URL Shortener project locally, follow these steps:
 1. **Repository:** `git clone https://.com/yash9111/UrlShort.git/`
-2. **Navigate to Project Directory:** `cd urlener`
+2. **Navigate to Project Directory:** `cd UrlShortner`
 3. **Install Dependencies:** `npm install`
 4. **Configure Variables:** Set environment variables for `PORT`, `MONGODB_URI`, and `BASE_URL` as requirements.
 5. **Start the Server:** `npm start`
-6. **Access the Application:** Visit [http://localhost:3000](http://localhost:3000)
+6. **Access the Application:** Visit [http://localhost:3000](http://localhost:7000)
 
 ### 4. Usage
 Once the project is running, users can:
